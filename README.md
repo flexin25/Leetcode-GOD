@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/flexin25/Leetcode-GOD/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/flexin25/Leetcode-GOD/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/flexin25/Leetcode-GOD/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Hash Table
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/flexin25/Leetcode-GOD/tree/master/3005-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/flexin25/Leetcode-GOD/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
