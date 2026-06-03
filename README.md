@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/flexin25/Leetcode-GOD/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/flexin25/Leetcode-GOD/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/flexin25/Leetcode-GOD/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/flexin25/Leetcode-GOD/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/flexin25/Leetcode-GOD/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/flexin25/Leetcode-GOD/tree/master/0485-max-consecutive-ones) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/flexin25/Leetcode-GOD/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/flexin25/Leetcode-GOD/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/flexin25/Leetcode-GOD/tree/master/0169-majority-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/flexin25/Leetcode-GOD/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -69,9 +71,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/flexin25/Leetcode-GOD/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/flexin25/Leetcode-GOD/tree/master/0169-majority-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/flexin25/Leetcode-GOD/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/flexin25/Leetcode-GOD/tree/master/0169-majority-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/flexin25/Leetcode-GOD/tree/master/3005-count-elements-with-maximum-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/flexin25/Leetcode-GOD/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
