@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/flexin25/Leetcode-GOD/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/flexin25/Leetcode-GOD/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/flexin25/Leetcode-GOD/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/flexin25/Leetcode-GOD/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/flexin25/Leetcode-GOD/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/flexin25/Leetcode-GOD/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/flexin25/Leetcode-GOD/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/flexin25/Leetcode-GOD/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/flexin25/Leetcode-GOD/tree/master/0119-pascals-triangle-ii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/flexin25/Leetcode-GOD/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/flexin25/Leetcode-GOD/tree/master/0566-reshape-the-matrix) |
 ## Simulation
 |  |
