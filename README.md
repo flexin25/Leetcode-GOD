@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/flexin25/Leetcode-GOD/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/flexin25/Leetcode-GOD/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/flexin25/Leetcode-GOD/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0509-fibonacci-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/flexin25/Leetcode-GOD/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/flexin25/Leetcode-GOD/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/flexin25/Leetcode-GOD/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/flexin25/Leetcode-GOD/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/flexin25/Leetcode-GOD/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/flexin25/Leetcode-GOD/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/flexin25/Leetcode-GOD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
