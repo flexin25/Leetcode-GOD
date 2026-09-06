@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/flexin25/Leetcode-GOD/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/flexin25/Leetcode-GOD/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/flexin25/Leetcode-GOD/tree/master/0566-reshape-the-matrix) |
+| [1207-unique-number-of-occurrences](https://github.com/flexin25/Leetcode-GOD/tree/master/1207-unique-number-of-occurrences) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/flexin25/Leetcode-GOD/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/flexin25/Leetcode-GOD/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/flexin25/Leetcode-GOD/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/flexin25/Leetcode-GOD/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0268-missing-number) |
+| [1207-unique-number-of-occurrences](https://github.com/flexin25/Leetcode-GOD/tree/master/1207-unique-number-of-occurrences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/flexin25/Leetcode-GOD/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
