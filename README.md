@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/flexin25/Leetcode-GOD/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/flexin25/Leetcode-GOD/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/flexin25/Leetcode-GOD/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/flexin25/Leetcode-GOD/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/flexin25/Leetcode-GOD/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/flexin25/Leetcode-GOD/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/flexin25/Leetcode-GOD/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/flexin25/Leetcode-GOD/tree/master/0229-majority-element-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/flexin25/Leetcode-GOD/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/flexin25/Leetcode-GOD/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/flexin25/Leetcode-GOD/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
