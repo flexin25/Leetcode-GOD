@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/flexin25/Leetcode-GOD/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/flexin25/Leetcode-GOD/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/flexin25/Leetcode-GOD/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/flexin25/Leetcode-GOD/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/flexin25/Leetcode-GOD/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/flexin25/Leetcode-GOD/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/flexin25/Leetcode-GOD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/flexin25/Leetcode-GOD/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/flexin25/Leetcode-GOD/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/flexin25/Leetcode-GOD/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/flexin25/Leetcode-GOD/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0202-happy-number) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/flexin25/Leetcode-GOD/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/flexin25/Leetcode-GOD/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/flexin25/Leetcode-GOD/tree/master/0566-reshape-the-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/flexin25/Leetcode-GOD/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
