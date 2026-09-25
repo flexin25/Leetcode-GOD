@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/flexin25/Leetcode-GOD/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/flexin25/Leetcode-GOD/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/flexin25/Leetcode-GOD/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/flexin25/Leetcode-GOD/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/flexin25/Leetcode-GOD/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/flexin25/Leetcode-GOD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0202-happy-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/flexin25/Leetcode-GOD/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/flexin25/Leetcode-GOD/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/flexin25/Leetcode-GOD/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/flexin25/Leetcode-GOD/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/flexin25/Leetcode-GOD/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/flexin25/Leetcode-GOD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/flexin25/Leetcode-GOD/tree/master/0128-longest-consecutive-sequence) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/flexin25/Leetcode-GOD/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/flexin25/Leetcode-GOD/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/flexin25/Leetcode-GOD/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/flexin25/Leetcode-GOD/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/flexin25/Leetcode-GOD/tree/master/0229-majority-element-ii) |
