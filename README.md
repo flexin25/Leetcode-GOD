@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/flexin25/Leetcode-GOD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/flexin25/Leetcode-GOD/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/flexin25/Leetcode-GOD/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/flexin25/Leetcode-GOD/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/flexin25/Leetcode-GOD/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/flexin25/Leetcode-GOD/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/flexin25/Leetcode-GOD/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/flexin25/Leetcode-GOD/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/flexin25/Leetcode-GOD/tree/master/0566-reshape-the-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/flexin25/Leetcode-GOD/tree/master/1207-unique-number-of-occurrences) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/flexin25/Leetcode-GOD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/flexin25/Leetcode-GOD/tree/master/0349-intersection-of-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/flexin25/Leetcode-GOD/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/flexin25/Leetcode-GOD/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/flexin25/Leetcode-GOD/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/flexin25/Leetcode-GOD/tree/master/0349-intersection-of-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/flexin25/Leetcode-GOD/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/flexin25/Leetcode-GOD/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/flexin25/Leetcode-GOD/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/flexin25/Leetcode-GOD/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/flexin25/Leetcode-GOD/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/flexin25/Leetcode-GOD/tree/master/1207-unique-number-of-occurrences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/flexin25/Leetcode-GOD/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
